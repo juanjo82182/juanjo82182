@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/juan-josé-sánchez-castellanos-478259201)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/juan-jose-sanchez-castellanos)
 [<img src="https://img.shields.io/github/followers/juanjo82182?label=follow&style=social" height="22" title="Follow me" />](https://github.com/juanjo82182) 
 
 
